@@ -13,6 +13,6 @@ This repo is dedicated to practising Tailwind CSS with React 18 and React Router
 
 If you would like to contribute please raise the PR.
 
-# Reach Me :woman:
+# Reach Me :man:
 
 You can email me at email.ashishgoyal@gmail.com or reach me on twitter @ashishgoyl
